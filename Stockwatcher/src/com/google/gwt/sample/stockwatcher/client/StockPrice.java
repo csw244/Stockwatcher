@@ -42,8 +42,8 @@ public class StockPrice {
 	    this.change = change;
 	  }
 	  
-	  public void foo(int conflict) {
-		 conflict = conflict + 1;
+	  public void foo(int conflict2) {
+		 conflict2 = conflict2 + 1;
 		  
 	  }
 }
